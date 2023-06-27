@@ -5,4 +5,4 @@
     <img src="assets/profile.png">
 </p>
 
-👋 Hello! My name is Kaden, but you can call me `webcrawls` online. I'm OK with either :)
+👋 Hello! I'm Kaden, aka `webcrawls` online. I'm OK with either :)
