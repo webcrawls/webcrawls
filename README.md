@@ -1,8 +1,8 @@
 # 🌃 webcrawls 🌠
 
-👋 Hello! I'm Kaden, aka `webcrawls` online. I'm OK with either :)
+👋 Hello! I'm Kaden, or usually @webcrawls online. I'm OK with either :)
 
-(I've also gone as `bluely` or `kadenscott`)
+(I've also gone as "bluely" or "kadenscott")
 
 And for my cool (and sorta lazy) statistics card
 
