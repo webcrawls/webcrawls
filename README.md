@@ -9,6 +9,7 @@
 - [webcrawls/discord](https://github.com/webcrawls/discord) - my BetterDiscord plugins
 - [webcrawls/festival-tracker](https://github.com/webcrawls/festival-tracker) - a Fortnite Festival track viewer, with sorting options
 - [webcrawls/gmi-viewer](https://github.com/webcrawls/gmi-viewer) - an HTML app that renders text from the gemini protocol into HTML
+- [webcrawls/archive](https://github.com/webcrawls/archive) - A historical record of my archive.org contributions
 
 _(also check out [Interference Pattern](https://borderlinefever.neocities.org)!)_
 
