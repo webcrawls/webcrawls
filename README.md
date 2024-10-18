@@ -6,4 +6,12 @@ Search my repositories: [web](https://github.com/webcrawls?tab=repositories&q=to
 
 _(I've marked WIP projects with a ⚠)_
 
+### Current Projects
+
+- [markii.js](#)
+- [smack-magic](#)
+- [foxglove](#)
+- [blockator](#)
+
+
 [![webcrawls' stats](https://github-readme-stats.vercel.app/api?username=webcrawls)](https://github.com/anuraghazra/github-readme-stats)
