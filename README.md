@@ -1,6 +1,6 @@
 # 🌃 webcrawls 🌠
 
-💻 frontend / backend / games
+💻 frontend / backend / game design / uiux
 
 🍁 ottawa, ontario
 
