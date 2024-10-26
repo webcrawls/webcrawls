@@ -4,7 +4,7 @@
 
 🍁 ottawa, ontario
 
-😇 21M
+😇 21 he/him
 
 search my repositories: [web](https://github.com/webcrawls?tab=repositories&q=topic%3Aweb) | [minecraft](https://github.com/webcrawls?tab=repositories&q=topic%3Aminecraft) ([plugins](https://github.com/webcrawls?tab=repositories&q=topic%3Aplugin))
 
